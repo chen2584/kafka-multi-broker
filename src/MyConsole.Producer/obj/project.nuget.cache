@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vj98Qm3lOPDUx/O7iCC36Yr3o17fT2ynuj+lWRk7MUF3aC8g6+KkBlvQLXFHeKHSVkEZT0ab2vye4ZibRAJ46A==",
+  "success": true,
+  "projectFilePath": "C:\\MyWork\\dotnet\\kafka-hello-world\\src\\MyConsole.Producer\\MyConsole.Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OOKBee\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\OOKBee\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\OOKBee\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
